@@ -10,19 +10,19 @@ Xiang Li<sup>3</sup> · Gan Sun<sup>4</sup> ·Jian Yang<sup>1</sup> · Jun Li<su
 
 <a href="https://arxiv.org/abs/2410.20823"><img src="https://img.shields.io/badge/arXiv-2410.20823-b31b1b.svg" height=20.5></a>
 <a href="https://xzr52.github.io/ATIH/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=red" height=20.5></a> 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center; width: 100%; margin: 0; padding: 0;">
-  <div style="width: 25%; padding: 0;">
+<div style="text-align: center; width: 100%; margin: 0; padding: 0;">
+  <span style="display: inline-block; width: 24%; margin-right: 0%; vertical-align: top;">
     <img src="examples/readme_image/horse.gif" style="width: 100%; display: block; border: none;">
-  </div>
-  <div style="width: 25%; padding: 0;">
+  </span>
+  <span style="display: inline-block; width: 24%; margin-right: 0%; vertical-align: top;">
     <img src="examples/readme_image/lion.gif" style="width: 100%; display: block; border: none;">
-  </div>
-  <div style="width: 25%; padding: 0;">
+  </span>
+  <span style="display: inline-block; width: 24%; margin-right: 0%; vertical-align: top;">
     <img src="examples/readme_image/mouse.gif" style="width: 100%; display: block; border: none;">
-  </div>
-  <div style="width: 25%; padding: 0;">
+  </span>
+  <span style="display: inline-block; width: 24%; vertical-align: top;">
     <img src="examples/readme_image/owl.gif" style="width: 100%; display: block; border: none;">
-  </div>
+  </span>
 </div>
 <div style="background-color: #1e1e1e; color: #d1d1d1; border-radius: 10px; padding: 20px; line-height: 1.6;">
   In this paper, we study an object synthesis task that combines an object text with an object image to create a new object image. However, most diffusion models struggle with this task, often generating an object that predominantly reflects either the text or the image due to an imbalance between their inputs.
