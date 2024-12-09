@@ -11,19 +11,19 @@ Xiang Li<sup>3</sup> · Gan Sun<sup>4</sup> ·Jian Yang<sup>1</sup> · Jun Li<su
 <a href="https://arxiv.org/abs/2410.20823"><img src="https://img.shields.io/badge/arXiv-2410.20823-b31b1b.svg" height=20.5></a>
 <a href="https://xzr52.github.io/ATIH/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=red" height=20.5></a> 
 </div>
-<table style="width: 100%; border-collapse: collapse; margin: 0; padding: 0;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; border: none; margin: 0; padding: 0;">
+  <tr style="border: none;">
     <td style="border: none; padding: 0; width: 25%;">
-      <img src="examples/readme_image/horse.gif" style="width: 100%; display: block;">
+      <img src="examples/readme_image/horse.gif" style="width: 100%; display: block; border: none;">
     </td>
     <td style="border: none; padding: 0; width: 25%;">
-      <img src="examples/readme_image/lion.gif" style="width: 100%; display: block;">
+      <img src="examples/readme_image/lion.gif" style="width: 100%; display: block; border: none;">
     </td>
     <td style="border: none; padding: 0; width: 25%;">
-      <img src="examples/readme_image/mouse.gif" style="width: 100%; display: block;">
+      <img src="examples/readme_image/mouse.gif" style="width: 100%; display: block; border: none;">
     </td>
     <td style="border: none; padding: 0; width: 25%;">
-      <img src="examples/readme_image/owl.gif" style="width: 100%; display: block;">
+      <img src="examples/readme_image/owl.gif" style="width: 100%; display: block; border: none;">
     </td>
   </tr>
 </table>
