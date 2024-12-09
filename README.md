@@ -116,7 +116,7 @@ python inference_one_image.py --image_path examples/rabbit.png --target_prompt '
 ## 🎨 **4. Complex Prompt Generation**
 Our framework supports using complex prompts. Here's an example of how the results look:
 <p align="center">
-<img src="examples/readme_image/complex_fuse2.png" width="800px"/>  
+<img src="examples/readme_image/complex_fuse.png" width="800px"/>  
 
 </p>
 </table>
