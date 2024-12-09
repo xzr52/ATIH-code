@@ -20,10 +20,10 @@ Xiang Li<sup>3</sup> · Gan Sun<sup>4</sup> ·Jian Yang<sup>1</sup> · Jun Li<su
       <img src="examples/readme_image/lion.gif" style="width: 100%; display: block;">
     </td>
     <td style="border: none; padding: 0; width: 25%;">
-      <img src="/opt/data/private/image_to_3d/bigmodel/xzr/neurips_ATIH_final_code/examples/readme_image/mouse.gif" style="width: 100%; display: block;">
+      <img src="examples/readme_image/mouse.gif" style="width: 100%; display: block;">
     </td>
     <td style="border: none; padding: 0; width: 25%;">
-      <img src="/opt/data/private/image_to_3d/bigmodel/xzr/neurips_ATIH_final_code/examples/readme_image/owl.gif" style="width: 100%; display: block;">
+      <img src="examples/readme_image/owl.gif" style="width: 100%; display: block;">
     </td>
   </tr>
 </table>
