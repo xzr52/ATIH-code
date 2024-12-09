@@ -13,16 +13,16 @@ Xiang Li<sup>3</sup> · Gan Sun<sup>4</sup> ·Jian Yang<sup>1</sup> · Jun Li<su
 </div>
 <div style="display: flex; gap: 0px; justify-content: space-between; align-items: center; width: 100%; margin: 0; padding: 0;">
   <div style="flex: 1; padding: 0;">
-    <img src="examples/readme_image/horse.gif" style="width: 100%; display: block; border: none;">
+    <img src="examples/readme_image/horse.gif" style="width: 25%; display: block; border: none;">
   </div>
   <div style="flex: 1; padding: 0;">
-    <img src="examples/readme_image/lion.gif" style="width: 100%; display: block; border: none;">
+    <img src="examples/readme_image/lion.gif" style="width: 25%; display: block; border: none;">
   </div>
   <div style="flex: 1; padding: 0;">
-    <img src="examples/readme_image/mouse.gif" style="width: 100%; display: block; border: none;">
+    <img src="examples/readme_image/mouse.gif" style="width: 25%; display: block; border: none;">
   </div>
   <div style="flex: 1; padding: 0;">
-    <img src="examples/readme_image/owl.gif" style="width: 100%; display: block; border: none;">
+    <img src="examples/readme_image/owl.gif" style="width: 25%; display: block; border: none;">
   </div>
 </div>
 <div style="background-color: #1e1e1e; color: #d1d1d1; border-radius: 10px; padding: 20px; line-height: 1.6;">
