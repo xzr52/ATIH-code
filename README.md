@@ -55,8 +55,8 @@ To set up the environment for running the code, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/image_to_3d.git
-    cd image_to_3d
+    git clone https://github.com/xzr52/ATIH-code
+    cd ATIH-code
     ```
 
 2. Create a conda environment and install dependencies:
@@ -66,7 +66,7 @@ To set up the environment for running the code, follow these steps:
     pip install -r requirements.txt
     ```
 
-3. Set CUDA paths (if applicable):
+3. Set CUDA paths:
     ```bash
     export CUDA_HOME=/usr/local/cuda
     ```
@@ -77,8 +77,7 @@ To set up the environment for running the code, follow these steps:
     pip install -e .
     ```
 
-5. Download segmentation model weights (`seg_ckpts`) and place them into the `ckpts` folder.
-
+5. Download segmentation model weights [seg_ckpts](https://drive.google.com/file/d/1j_NEG2CPhFeRetYziWK6Qe62R5h7lG_V/view?usp=drive_link) and unzip.
 
 
 ## 🚀 **2. Quick Start**
