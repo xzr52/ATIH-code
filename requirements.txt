@@ -1,0 +1,21 @@
+git+https://github.com/facebookresearch/segment-anything.git
+torchvision==0.17.0
+torch==2.2.0
+#pip install --no-build-isolation -e GroundingDINO
+accelerate==0.26.0
+bitsandbytes==0.43.0
+pandas
+open_clip_torch==2.22.0
+einops
+gradio
+diffusers==0.24.0
+transformers==4.32.1
+huggingface_hub==0.25.2
+#   Attempting uninstall: tokenizers
+#     Found existing installation: tokenizers 0.20.3
+#     Uninstalling tokenizers-0.20.3:
+#       Successfully uninstalled tokenizers-0.20.3
+#   Attempting uninstall: transformers
+#     Found existing installation: transformers 4.46.3
+#     Uninstalling transformers-4.46.3:
+#       Successfully uninstalled transformers-4.46.3
