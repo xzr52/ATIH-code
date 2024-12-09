@@ -10,19 +10,18 @@ Xiang Li<sup>3</sup> · Gan Sun<sup>4</sup> ·Jian Yang<sup>1</sup> · Jun Li<su
 
 <a href="https://arxiv.org/abs/2410.20823"><img src="https://img.shields.io/badge/arXiv-2410.20823-b31b1b.svg" height=20.5></a>
 <a href="https://xzr52.github.io/ATIH/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=red" height=20.5></a> 
-</div>
-<div style="display: flex; gap: 0px; justify-content: space-between; align-items: center; width: 100%; margin: 0; padding: 0;">
-  <div style="flex: 1; padding: 0;">
-    <img src="examples/readme_image/horse.gif" style="width: 25%; display: block; border: none;">
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center; width: 100%; margin: 0; padding: 0;">
+  <div style="width: 25%; padding: 0;">
+    <img src="examples/readme_image/horse.gif" style="width: 100%; display: block; border: none;">
   </div>
-  <div style="flex: 1; padding: 0;">
-    <img src="examples/readme_image/lion.gif" style="width: 25%; display: block; border: none;">
+  <div style="width: 25%; padding: 0;">
+    <img src="examples/readme_image/lion.gif" style="width: 100%; display: block; border: none;">
   </div>
-  <div style="flex: 1; padding: 0;">
-    <img src="examples/readme_image/mouse.gif" style="width: 25%; display: block; border: none;">
+  <div style="width: 25%; padding: 0;">
+    <img src="examples/readme_image/mouse.gif" style="width: 100%; display: block; border: none;">
   </div>
-  <div style="flex: 1; padding: 0;">
-    <img src="examples/readme_image/owl.gif" style="width: 25%; display: block; border: none;">
+  <div style="width: 25%; padding: 0;">
+    <img src="examples/readme_image/owl.gif" style="width: 100%; display: block; border: none;">
   </div>
 </div>
 <div style="background-color: #1e1e1e; color: #d1d1d1; border-radius: 10px; padding: 20px; line-height: 1.6;">
