@@ -27,8 +27,8 @@ Xiang Li<sup>3</sup> · Gan Sun<sup>4</sup> ·Jian Yang<sup>1</sup> · Jun Li<su
     </td>
   </tr>
 </table> -->
-<table style="width: 100%; border-collapse: collapse; margin: 0; padding: 0; border: 0;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; border: none; margin: 0; padding: 0;">
+  <tr style="border: none;">
     <td style="border: none; padding: 0; width: 25%;">
       <img src="examples/readme_image/horse.gif" style="width: 100%; display: block;">
     </td>
@@ -43,6 +43,7 @@ Xiang Li<sup>3</sup> · Gan Sun<sup>4</sup> ·Jian Yang<sup>1</sup> · Jun Li<su
     </td>
   </tr>
 </table>
+
 
 <div style="background-color: #1e1e1e; color: #d1d1d1; border-radius: 10px; padding: 20px; line-height: 1.6;">
   In this paper, we study an object synthesis task that combines an object text with an object image to create a new object image. However, most diffusion models struggle with this task, often generating an object that predominantly reflects either the text or the image due to an imbalance between their inputs.
